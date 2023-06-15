@@ -22,6 +22,7 @@ min-height: 600px;
 `;
 
 export const Title = styled.h1`
+font-family: ${p => p.theme.fonts.body};
   font-style: italic;
   font-weight: ${p => p.theme.fontWeights.bold};
   font-size: ${p => p.theme.space[5] + 8}px;
@@ -33,6 +34,7 @@ export const Title = styled.h1`
 `;
 
 export const Author = styled.p`
+font-family: ${p => p.theme.fonts.body};
   font-style: italic;
   font-weight: ${p => p.theme.fontWeights.normal};
   font-size: ${p => p.theme.space[4]}px;
