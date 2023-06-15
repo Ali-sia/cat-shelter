@@ -52,6 +52,7 @@ export const StyledNavLink = styled(NavLink)`
   background-color: ${p => p.theme.colors.accent};
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: ${p => p.theme.radii.sm};
+  font-family: ${p => p.theme.fonts.body};
   font-weight: ${p => p.theme.fontWeights.medium};
   font-size: ${p => p.theme.space[4] + 4}px;
   line-height: ${p => p.theme.lineHeights.body};
