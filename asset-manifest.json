@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cat-shelter/static/css/main.930bfcb1.css",
+    "main.js": "/cat-shelter/static/js/main.4f3ee9c9.js",
+    "static/js/78.2e2ce7f1.chunk.js": "/cat-shelter/static/js/78.2e2ce7f1.chunk.js",
+    "static/js/680.6423f4fe.chunk.js": "/cat-shelter/static/js/680.6423f4fe.chunk.js",
+    "static/js/848.63a45f0d.chunk.js": "/cat-shelter/static/js/848.63a45f0d.chunk.js",
+    "static/js/554.c10ab589.chunk.js": "/cat-shelter/static/js/554.c10ab589.chunk.js",
+    "static/js/634.a8b138eb.chunk.js": "/cat-shelter/static/js/634.a8b138eb.chunk.js",
+    "static/media/heroBackground@2x.jpg": "/cat-shelter/static/media/heroBackground@2x.d5cea7edafd41dd815df.jpg",
+    "static/media/heroBackground.jpg": "/cat-shelter/static/media/heroBackground.c5f93f51380610d669fd.jpg",
+    "static/media/HelpPagePhoto.jpg": "/cat-shelter/static/media/HelpPagePhoto.0f5c5985bc6386b5698a.jpg",
+    "static/media/NotFound.jpg": "/cat-shelter/static/media/NotFound.348c008c1db2a20c9f1f.jpg",
+    "index.html": "/cat-shelter/index.html",
+    "main.930bfcb1.css.map": "/cat-shelter/static/css/main.930bfcb1.css.map",
+    "main.4f3ee9c9.js.map": "/cat-shelter/static/js/main.4f3ee9c9.js.map",
+    "78.2e2ce7f1.chunk.js.map": "/cat-shelter/static/js/78.2e2ce7f1.chunk.js.map",
+    "680.6423f4fe.chunk.js.map": "/cat-shelter/static/js/680.6423f4fe.chunk.js.map",
+    "848.63a45f0d.chunk.js.map": "/cat-shelter/static/js/848.63a45f0d.chunk.js.map",
+    "554.c10ab589.chunk.js.map": "/cat-shelter/static/js/554.c10ab589.chunk.js.map",
+    "634.a8b138eb.chunk.js.map": "/cat-shelter/static/js/634.a8b138eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.930bfcb1.css",
+    "static/js/main.4f3ee9c9.js"
+  ]
+}
