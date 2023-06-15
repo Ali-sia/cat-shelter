@@ -12,9 +12,9 @@ const NotFoundPage = lazy(() =>
 );
 
 const App = () => {
-  // basename="/cat-shelter"
   return (
-    <BrowserRouter >
+    
+    <BrowserRouter basename="/cat-shelter">
       <Suspense fallback={null}>
         <Routes>
           <Route path="/" element={<Layout />}>
