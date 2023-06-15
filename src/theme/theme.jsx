@@ -1,0 +1,52 @@
+export const theme = {
+  colors: {
+    black: '#000',
+    white: '#fff',
+    mainText: '#212121',
+    secondaryText: '#757575',
+    mainBackground: '#FFFFFF',
+    secondaryBackground: '#F5F4FA',
+    accent: '#FF3629',
+    border: '#757575',
+    hover: '#2ECC71',
+    logoText: '#994A45',
+    green: '#7cfc9a',
+    red: '#fc9b95',
+    cardBorder: '#757575',
+  },
+  space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
+  fonts: {
+    body: 'Roboto, sans-serif',
+    logo: 'Raleway, sans-serif',
+  },
+  fontSizes: {
+    xs: '12px',
+    s: '14px',
+    m: '16px',
+    mml: '20px',
+    ml: '24px',
+    l: '32px',
+    xl: '64px',
+  },
+  fontWeights: {
+    normal: 400,
+    medium: 500,
+    bold: 700,
+    maxBold: 900,
+  },
+  lineHeights: {
+    body: 1.5,
+    heading: 1.14,
+  },
+  borders: {
+    none: 'none',
+    normal: '1px solid',
+  },
+  radii: {
+    none: '0',
+    sm: '4px',
+    md: '8px',
+    lg: '16px',
+    round: '50%',
+  },
+};
