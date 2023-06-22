@@ -7,6 +7,7 @@ const HomePage = lazy(() => import('../../pages/HomePage/HomePage'));
 const CatsPage = lazy(() => import('../../pages/CatsPage/CatsPage'));
 const OneCatPage = lazy(() => import('../../pages/OneCatPage/OneCatPage'));
 const HelpPage = lazy(() => import('../../pages/HelpPage/HelpPage'));
+const InfoPage = lazy(() => import('../../pages/InfoPage/InfoPage'));
 const NotFoundPage = lazy(() =>
   import('../../pages/NotFoundPage/NotFoundPage')
 );
@@ -24,6 +25,8 @@ const App = () => {
             <Route path="/cats" element={<CatsPage />} />
 
             <Route path="/help-shelter" element={<HelpPage />} />
+
+            <Route path="/info-shelter" element={<InfoPage />} />
           </Route>
 
           <Route path="*" element={<NotFoundPage />} />

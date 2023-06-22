@@ -30,6 +30,7 @@ const Header = () => {
                 <HeaderLink to="/">Головна</HeaderLink>
                 <HeaderLink to="/cats">Котики</HeaderLink>
                 <HeaderLink to="/help-shelter">Допомогти</HeaderLink>
+                <HeaderLink to="/info-shelter">Корисно</HeaderLink>
               </div>
               <ContactDiv>
                 <ContactLink href="mailto:help@shelter.com">
@@ -57,6 +58,7 @@ const Header = () => {
                 <HeaderLink to="/">Головна</HeaderLink>
                 <HeaderLink to="/cats">Котики</HeaderLink>
                 <HeaderLink to="/help-shelter">Допомогти</HeaderLink>
+                <HeaderLink to="/info-shelter">Корисно</HeaderLink>
               </StyledMenu>
             </>
           )}
