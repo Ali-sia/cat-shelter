@@ -22,7 +22,7 @@ min-height: 600px;
 `;
 
 export const Title = styled.h1`
-font-family: ${p => p.theme.fonts.body};
+  font-family: ${p => p.theme.fonts.body};
   font-style: italic;
   font-weight: ${p => p.theme.fontWeights.bold};
   font-size: ${p => p.theme.space[5] + 8}px;
@@ -34,7 +34,7 @@ font-family: ${p => p.theme.fonts.body};
 `;
 
 export const Author = styled.p`
-font-family: ${p => p.theme.fonts.body};
+  font-family: ${p => p.theme.fonts.body};
   font-style: italic;
   font-weight: ${p => p.theme.fontWeights.normal};
   font-size: ${p => p.theme.space[4]}px;
@@ -53,7 +53,7 @@ export const StyledNavLink = styled(NavLink)`
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: ${p => p.theme.radii.sm};
   font-family: ${p => p.theme.fonts.body};
-  font-weight: ${p => p.theme.fontWeights.medium};
+  font-weight: ${p => p.theme.fontWeights.bold};
   font-size: ${p => p.theme.space[4] + 4}px;
   line-height: ${p => p.theme.lineHeights.body};
 

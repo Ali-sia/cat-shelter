@@ -7,7 +7,7 @@ export const theme = {
     mainBackground: '#FFFFFF',
     secondaryBackground: '#F5F4FA',
     accent: '#FF3629',
-    border: '#757575',
+    border: '#bdbbbb',
     hover: '#2ECC71',
     logoText: '#994A45',
     green: '#7cfc9a',

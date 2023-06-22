@@ -109,6 +109,6 @@ export const Status = styled.div`
   padding: ${p => p.theme.space[2]}px;
 
   background-color: ${p =>
-    p.$domesticated ? p.theme.colors.green : p.theme.colors.red};
+    p.$domesticated ? p.theme.colors.red : p.theme.colors.green};
   border-radius: ${p => p.theme.radii.round};
 `;
