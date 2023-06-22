@@ -32,6 +32,9 @@ export const ContactDiv = styled.div`
 
 export const Logo = styled.div`
   margin-right: ${p => p.theme.space[7] - 20}px;
+  @media screen and (min-width: 768px) and (max-width: 868px) {
+    margin-right: ${p => p.theme.space[2] * 6}px;
+  }
   font-family: ${p => p.theme.fonts.logo};
   font-weight: ${p => p.theme.fontWeights.bold};
   font-size: ${p => p.theme.fontSizes.ml};
